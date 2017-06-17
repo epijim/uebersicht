@@ -10,7 +10,7 @@ style: """
   widget-align = left
 
   // Position this where you want
-  top 70px
+  top 85px
   left 10px
 
   // Statistics text settings
@@ -90,7 +90,7 @@ style: """
 
 render: -> """
   <div class="container">
-    <div class="widget-title">Memory</div>
+    <div class="widget-title">RAM LOAD</div>
     <table class="stats-container" width="100%">
       <tr>
         <td class="stat"><span class="wired"></span></td>

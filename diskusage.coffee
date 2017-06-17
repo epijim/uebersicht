@@ -33,7 +33,7 @@ style: """
   widget-align = left
 
   // Position this where you want
-  top 230px
+  top 245px
   left 10px
 
   // Statistics text settings
