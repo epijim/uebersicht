@@ -26,8 +26,8 @@ color: 'FFFFFF', // The hex color code for the desired graph color
 metric: "distance", // The metric to track and display
 
 
-dataFreq: (1000 * 60 * 15), // Data refresh interval (Strava API)
-refreshFrequency: 10000,
+dataFreq: (1000 * 60 * 30), // Data refresh interval (Strava API)
+refreshFrequency: 20000,
 
 pinged: 0, // Time of the last data update
 data: null, // The data from the last update
