@@ -1,8 +1,8 @@
 // For documentation on these options, see the README at https://github.com/shadowfacts/uebersicht-github-activity/
 const options = {
 	user: "blackj9",
-	size: 30,
-	incrAmount: 6,
+	size: 13,
+	incrAmount: 1,
 	margin: 2,
 	vary: ["size", "color"],
 	shape: "circle",

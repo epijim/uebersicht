@@ -3,8 +3,8 @@ refreshFrequency: 3600000,
 style: "\
 #github-activity {\
   position: absolute;\
-  left: 50%;\
-  top: 50%;\
+  left: 22%;\
+  bottom: 30px;\
   transform: translateX(-50%) translateY(-50%);\
 }",
 render: () => {
